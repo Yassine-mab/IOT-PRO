@@ -19,8 +19,8 @@ The Smart Plant Watering System continuously monitors soil moisture and temperat
 | TMP36 Temperature Sensor | 1 | Monitors temperature |
 | LCD 16x2 I2C (PCF8574) | 1 | Displays status and readings |
 | Red LED | 1 | DRY state indicator |
-| Yellow LED | 1 | WET state indicator |
-| Blue LED | 1 | MEDIUM state indicator |
+| Green LED | 1 | WET state indicator |
+| Yellow LED | 1 | MEDIUM state indicator |
 | 220Ω Resistors | 3 | Current limiting for LEDs |
 | Piezo Buzzer | 1 | Audio alert when soil is dry |
 
