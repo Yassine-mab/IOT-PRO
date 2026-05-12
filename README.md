@@ -41,8 +41,8 @@ The Smart Plant Watering System continuously monitors soil moisture and temperat
 | LCD I2C | VCC | 5V |
 | LCD I2C | GND | GND |
 | Red LED | Anode | Pin 11 (~PWM) |
-| Yellow LED | Anode | Pin 10 (~PWM) |
-| Blue LED | Anode | Pin 9 (~PWM) |
+| Green LED | Anode | Pin 10 (~PWM) |
+| Yellow LED | Anode | Pin 9 (~PWM) |
 | Buzzer | + | Pin 6 |
 
 ---
